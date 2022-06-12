@@ -1,2 +1,6 @@
 git init  - initialize an empty local repo
-eyewgakljsgskdhj
+git add . - stage changes 
+git commit -m"commit message" -takes a snapshot of the current state of the repo
+git log - shows commit history 
+git status - shows the current state/branch 
+
