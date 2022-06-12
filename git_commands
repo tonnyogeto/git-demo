@@ -3,8 +3,8 @@ git add . - stage changes
 git commit -m"commit message" -takes a snapshot of the current state of the repo
 git log - shows commit history 
 git status - shows the current state/branch 
-git remote add <remote repo name> <remote repo link>  -links your local repo to your remote repo
+git remote add <remote-repo-name> <remote-repo-link>  -links your local repo to your remote repo
 git remote -v - used for visualization
-
+git push -u <remote-repo-name> <remote-branch>
 
 
